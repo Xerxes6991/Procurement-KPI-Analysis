@@ -2,7 +2,7 @@
 
 # 📦 Procurement KPI Analysis  
 **Author:** Eze Chukwunonso  
-**Tools:** Python · pandas · matplotlib · seaborn · FPDF  
+**Tools:** Python · pandas · matplotlib · seaborn   
 
 ---
 
